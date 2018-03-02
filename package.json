@@ -1,0 +1,43 @@
+{
+  "name": "mocha-streambuffer",
+  "version": "1.0.10",
+  "description": "A small utility to capture console output in mocha tests",
+  "main": "index.js",
+  "scripts":
+  {
+    "test": "mocha tst/_index.js"
+  },
+  "keywords": [
+    "mocha",
+    "streambuffer",
+    "stdout",
+    "console"
+  ],
+  "author": "Port:80",
+  "contributors": "Stefan Zeller <sz@p80.ch>",
+  "license": "MIT",
+  "publishConfig":
+  {
+    "registry": "http://127.0.0.1:28102/"
+  },
+  "bugs":
+  {
+    "url": "https://github.com/p80-ch/mocha-streambuffer/issues",
+    "email": "github@p80.ch"
+  },
+  "repository": {},
+  "dependencies": {},
+  "devDependencies":
+  {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-exec": "*",
+    "grunt-git": "*",
+    "grunt-jsdoc": "*",
+    "grunt-mocha-test": "*",
+    "jshint": "*",
+    "mocha": "*",
+    "type-of-is": "*",
+    "semver": "*"
+  }
+}
