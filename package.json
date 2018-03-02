@@ -1,6 +1,6 @@
 {
   "name": "@port80/mocha-streambuffer",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "A small utility to capture console output in mocha tests",
   "main": "index.js",
   "scripts": {
