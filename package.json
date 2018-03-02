@@ -1,10 +1,9 @@
 {
   "name": "mocha-streambuffer",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "A small utility to capture console output in mocha tests",
   "main": "index.js",
-  "scripts":
-  {
+  "scripts": {
     "test": "mocha tst/_index.js"
   },
   "keywords": [
@@ -16,8 +15,7 @@
   "author": "Port:80",
   "contributors": "Stefan Zeller <sz@p80.ch>",
   "license": "MIT",
-  "publishConfig":
-  {
+  "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
   "bugs": {
@@ -26,8 +24,7 @@
   },
   "repository": {},
   "dependencies": {},
-  "devDependencies":
-  {
+  "devDependencies": {
     "grunt": "*",
     "grunt-contrib-jshint": "*",
     "grunt-exec": "*",
