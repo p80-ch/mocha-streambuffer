@@ -18,7 +18,7 @@
   "license": "MIT",
   "publishConfig":
   {
-    "registry": "http://127.0.0.1:28102/"
+    "registry": "https://www.npmjs.com/~stz"
   },
   "bugs":
   {
