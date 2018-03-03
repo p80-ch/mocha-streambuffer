@@ -1,6 +1,6 @@
 {
   "name": "mocha-streambuffer",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "A small utility to capture console output in mocha tests",
   "main": "index.js",
   "scripts": {
