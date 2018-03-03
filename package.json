@@ -25,15 +25,14 @@
   "repository": {},
   "dependencies": {},
   "devDependencies": {
-    "grunt": "*",
-    "grunt-contrib-jshint": "*",
-    "grunt-exec": "*",
-    "grunt-git": "*",
-    "grunt-jsdoc": "*",
-    "grunt-mocha-test": "*",
-    "jshint": "*",
-    "mocha": "*",
-    "type-of-is": "*",
-    "semver": "*"
+    "grunt": "^1.0.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-exec": "^3.0.0",
+    "grunt-git": "^1.0.9",
+    "grunt-mocha-test": "^0.13.3",
+    "jshint": "^2.9.5",
+    "mocha": "^5.0.1",
+    "semver": "^5.5.0",
+    "type-of-is": "^3.5.1"
   }
 }
